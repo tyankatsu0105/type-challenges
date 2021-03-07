@@ -1,0 +1,1 @@
+https://github.com/type-challenges/type-challenges/blob/master/questions/8-medium-readonly-2/README.md
