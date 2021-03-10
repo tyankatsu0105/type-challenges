@@ -1,0 +1,1 @@
+https://github.com/type-challenges/type-challenges/blob/master/questions/62-medium-type-lookup/README.md
