@@ -1,0 +1,1 @@
+https://github.com/type-challenges/type-challenges/blob/master/questions/20-medium-promise-all/README.md
