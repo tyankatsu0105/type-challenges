@@ -1,0 +1,1 @@
+https://github.com/type-challenges/type-challenges/blob/master/questions/110-medium-capitalize/README.md
